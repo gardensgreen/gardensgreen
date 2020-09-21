@@ -1,6 +1,6 @@
 # Daniel Tillero | Fullstack Software Engineer
 
-I have a desire for solving business problems. I use logic and data driven approaches combined with creativity to build some pretty cool products. I’m a passionate learner and strive to connect with people who can teach me a thing or two.
+I have a desire for solving business problems. I use logic and data driven approaches combined with creativity to build innovative products. I’m a passionate learner and strive to connect with people who can teach me a thing or two. 
 
 ## Tech Stack (Current)
 
