@@ -1,4 +1,4 @@
-# Daniel E. Tillero | Fullstack Software Engineer
+# Daniel Tillero | Fullstack Software Engineer
 
 I have a desire for solving business problems. I use logic and data driven approaches combined with creativity to build some pretty cool products. I’m a passionate learner and strive to connect with people who can teach me a thing or two.
 
