@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Daniel E. Tillero | Fullstack Software Engineer
 
-You can use the [editor on GitHub](https://github.com/gardensgreen/gardensgreen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I have a desire for solving business problems. I use logic and data driven approaches combined with creativity to build some pretty cool products. I’m a passionate learner and strive to connect with people who can teach me a thing or two.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Tech Stack
 
-### Markdown
+- HTML/CSS
+- JavaScript
+- Python
+- Express
+- SQL
+- React
+- Redux
+- Docker
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gardensgreen/gardensgreen/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	
+![Alt](https://media-exp1.licdn.com/dms/image/C4E22AQHWcDJdJpUUeg/feedshare-shrink_1280-alternative/0?e=1603324800&v=beta&t=nNkkGIE4zqmbcVWwUS6AKJfto7UUrbjx8KwOPO8JpBk "Title")
