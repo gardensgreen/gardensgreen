@@ -4,7 +4,7 @@ I have a desire for solving business problems. I use logic and data driven appro
 
 👨‍🎓 FIU Computer Science & IT
 
-🧑‍💻 EX UI Dev.
+💻 EX UI Dev.
 
 📜 Currently working on my Data Structures and Algorithms skills. 
 
