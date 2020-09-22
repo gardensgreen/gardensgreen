@@ -2,6 +2,12 @@
 
 I have a desire for solving business problems. I use logic and data driven approaches combined with creativity to build innovative products. I’m a passionate learner and strive to connect with people who can teach me a thing or two. 
 
+👨‍🎓 FIU Computer Science & IT
+🧑‍💻 EX UI Dev.
+📜 Currently working on my Data Structures and Algorithms skills. 
+
+
+
 ## Tech Stack (Current)
 
 - HTML/CSS
