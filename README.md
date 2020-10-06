@@ -6,7 +6,7 @@ I like to solve business problems by leveraging logic and data driven approaches
 
 💻 EX UI Dev.
 
-📜 Currently working on my Data Structures and Algorithms skills. 
+📜 Currently working on my Backend Skills.
 
 
 
