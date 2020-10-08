@@ -22,4 +22,3 @@ I'm a Software Engineer and my true passion stems from solving problems by lever
 - Docker
 
 	
-![Alt](https://media-exp1.licdn.com/dms/image/C4E22AQHWcDJdJpUUeg/feedshare-shrink_1280-alternative/0?e=1603324800&v=beta&t=nNkkGIE4zqmbcVWwUS6AKJfto7UUrbjx8KwOPO8JpBk "Title")
