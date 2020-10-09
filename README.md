@@ -6,7 +6,7 @@ I'm a Software Engineer and my true passion stems from solving problems by lever
 
 💻 EX UI Dev.
 
-📜 Currently working on my Backend Skills.
+📜 Currently working on my Backend Engineering.
 
 
 
