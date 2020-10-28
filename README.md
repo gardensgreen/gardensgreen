@@ -13,4 +13,4 @@ Current Software Stack: PostgreSQL Express, React/Redux and a Python/Node Backen
 
 💻 EX UI Dev.
 
-📜 Currently working on my Data Structures and Algorithms skills.
+📜 Currently working on my backend engineering skills.
