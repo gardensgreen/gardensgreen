@@ -5,7 +5,7 @@ I'm a Software Engineer and my true passion stems from solving problems by lever
 
 Proficient Technologies: JavaScript, TypeScript, Python, React/Redux, Angular, Node, Express, PostgreSQL, Sequelize, Flask, Docker, Mocha, Chai.
 
-Exposure: Java, Swift, GraphQL, MongoDB, Google Firestore, React Native, Agile, AWS S3,.
+Exposure: Java, Swift, GraphQL, MongoDB, Google Firestore, React Native, Agile, AWS S3.
 
 Current Software Stack: PostgreSQL Express, React/Redux and a Python/Node Backend.
 
