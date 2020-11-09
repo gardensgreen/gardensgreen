@@ -7,13 +7,16 @@ Proficient Technologies: JavaScript, TypeScript, Python, React/Redux, Angular, N
 
 Exposure: Java, Swift, GraphQL, MongoDB, Google Firestore, React Native, Agile, AWS S3.
 
-Current Software Stack: PostgreSQL Express, React/Redux and a Python/Node Backend.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardensgreen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Current Software Stack: PostgreSQL Express, React/Redux and Node Backend.
 
 👨‍🎓 FIU Computer Science & IT
 
 💻 EX UI Dev.
 
 📜 Currently working on my backend engineering skills.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardensgreen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
