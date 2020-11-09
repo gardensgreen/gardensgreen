@@ -9,6 +9,8 @@ Exposure: Java, Swift, GraphQL, MongoDB, Google Firestore, React Native, Agile, 
 
 Current Software Stack: PostgreSQL Express, React/Redux and a Python/Node Backend.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardensgreen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 👨‍🎓 FIU Computer Science & IT
 
 💻 EX UI Dev.
@@ -16,4 +18,4 @@ Current Software Stack: PostgreSQL Express, React/Redux and a Python/Node Backen
 📜 Currently working on my backend engineering skills.
 
 [![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=gardensgreen)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardensgreen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
