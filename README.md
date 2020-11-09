@@ -17,5 +17,3 @@ Current Software Stack: PostgreSQL Express, React/Redux and a Python/Node Backen
 
 📜 Currently working on my backend engineering skills.
 
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=gardensgreen)](https://github.com/anuraghazra/github-readme-stats)
-
