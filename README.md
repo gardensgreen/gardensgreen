@@ -16,7 +16,7 @@ Current Software Stack: PostgreSQL Express, React/Redux and Node Backend.
 📜 Currently working on my react skills.
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gardensgreen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gardensgreen)
 
 
 
