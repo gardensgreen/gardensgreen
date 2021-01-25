@@ -7,13 +7,8 @@ Proficient Technologies: JavaScript, TypeScript, Python, React/Redux, Angular, N
 
 Exposure: Java, Swift, GraphQL, MongoDB, Google Firestore, React Native, Agile, AWS S3.
 
-Current Software Stack: PostgreSQL Express, React/Redux and Node Backend.
+Current Software Stack: Flask, React, SQLAlchemy, PostgreSQL
 
-
-
-💻 EX UI Dev.
-
-📜 Currently working on my react skills.
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gardensgreen)
