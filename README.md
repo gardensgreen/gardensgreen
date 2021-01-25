@@ -9,7 +9,7 @@ Exposure: Java, Swift, GraphQL, MongoDB, Google Firestore, React Native, Agile, 
 
 Current Software Stack: PostgreSQL Express, React/Redux and Node Backend.
 
-👨‍🎓 FIU Computer Science & IT
+
 
 💻 EX UI Dev.
 
