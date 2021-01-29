@@ -5,7 +5,7 @@ I'm a Software Engineer and my true passion stems from solving problems by lever
 
 ## Languages & Tools
 
-(https://github.com/harshcut/harshcut/blob/master/static/javascript.svg)
+![JS](https://github.com/harshcut/harshcut/blob/master/static/javascript.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gardensgreen)
 
