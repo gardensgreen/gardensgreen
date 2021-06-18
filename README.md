@@ -7,7 +7,7 @@
 - Databases: PostgreSQL, MongoDB, DynamoDB
 - Cloud Infrastructure: Google Cloud Functions, Firebase, Firestore
 - Other: RESTFul, Microservices, Docker
-- Design: CSS3, HTML5, Styled Components, Material UI, Figma
+- Design: CSS3, HTML5, Styled Components, Material UI, Pug, Figma
 
 <br>
 <br>
