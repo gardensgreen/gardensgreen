@@ -1,4 +1,4 @@
-# Daniel Tillero | Listener of tunes, watcher of movies, full time baller.
+# Daniel Tillero 
 
 ## Languages & Tools
 
