@@ -6,7 +6,7 @@ I'm a Software Developer with an aptitude for problem solving and learning. Thro
 ## Languages & Tools
 
 - Languages: JavaScript, Python, TypeScript, Java, Swift
-- Frameworks and Libraries: Node, Express, Flask, React, Redux, Angular
+- Frameworks and Libraries: Node, Express, Flask, React, Redux, jQuery, Angular
 - Databases: PostgreSQL, MongoDB, DynamoDB
 - Cloud Infrastructure: Google Cloud Functions, Firebase, Firestore
 - Other: RESTFul, Microservices, Docker
