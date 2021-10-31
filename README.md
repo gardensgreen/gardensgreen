@@ -1,5 +1,8 @@
 # Hi there! I'm Daniel
-## Self-taught software engineer currently working on integrations [@Constructor](https://www.constructor.io/)
+## I'm a software engineer currently working on integrations [@Constructor](https://www.constructor.io/)
+
+##### Education
+FIU - a/A
 
 ##### Connect with me on: 
 [linkedin]: https://www.linkedin.com/in/danieltillero/
