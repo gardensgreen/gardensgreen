@@ -1,6 +1,5 @@
 # Hi there! I'm Daniel
 ## Self-taught software engineer currently working on integrations @Constructor
-##### I'm a Brother - Friend - Philosopher - Foodie - Producer - Engineer 
 [Constructor]: https://www.constructor.io/
 
 ##### Connect with me on: 
