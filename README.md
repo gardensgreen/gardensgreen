@@ -18,6 +18,7 @@
         <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gardensgreen&hide=css,html&layout=compact&langs_count=10&theme=algolia"/>
     </a>
 </p>
+
 ### 🛠 &nbsp;Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
